@@ -1,3 +1,3 @@
 # 30-Days-Of-ML
 
-Link Competition :
+Link Competition : https://www.kaggle.com/c/30-days-of-ml/overview
